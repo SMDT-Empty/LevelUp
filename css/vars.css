@@ -1,0 +1,10 @@
+:root {
+    --wh: #FFFFFF;
+    --gr: #92929D;
+    --bg: #171725;
+    --btn: #6A4BFF;
+    --crcl: #1D2335;
+    --alert: #F95050;
+    --inp: #2F3750;
+    --revgar: linear-gradient(180deg, #2F3750 0%, #382F50 100%);
+}
